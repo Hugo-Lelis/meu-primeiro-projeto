@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+}
+.form{
+    margin:150px auto;
+    width: 250px;
+}
+#txtbusca,#key09,#ook{
+    border: 1px solid black;
+    display: block;
+    width: 100%;
+    box-sizing:border-box;
+}
+#ook{
+    margin-top: 15px;
+}
+fieldset{
+    border: 2px solid black;
+    background: burlywood;
+}
+.le{
+    text-align: center;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    color: brown;
+    border: 2px solid black;
+    border-radius: 30px;
+    padding: 5px;
+    letter-spacing:2px;
+    background: bisque;
+}
+.form label{
+    display: block;
+    margin-top: 15px;
+}
